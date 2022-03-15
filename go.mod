@@ -3,8 +3,8 @@ module github.com/carina-io/carina-api
 go 1.17
 
 require (
-	google.golang.org/grpc v1.45.0
-	k8s.io/apimachinery v0.23.4
+	google.golang.org/grpc v1.27.1
+	k8s.io/apimachinery v0.23.0
 	sigs.k8s.io/controller-runtime v0.11.1
 )
 
