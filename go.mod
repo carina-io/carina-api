@@ -1,4 +1,4 @@
-module github.com/carina/carina-api
+module github.com/carina-io/carina-api
 
 go 1.17
 

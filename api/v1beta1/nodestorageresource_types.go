@@ -15,7 +15,7 @@ limitations under the License.
 package v1beta1
 
 import (
-	"github.com/carina/carina-api/api"
+	"github.com/carina-io/carina-api/api"
 	"k8s.io/apimachinery/pkg/api/resource"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 )
