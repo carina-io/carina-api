@@ -5,7 +5,7 @@ go 1.17
 require (
 	google.golang.org/grpc v1.27.1
 	k8s.io/apimachinery v0.20.4
-	sigs.k8s.io/controller-runtime v0.8.3
+	sigs.k8s.io/controller-runtime v0.6.0
 )
 
 require (
