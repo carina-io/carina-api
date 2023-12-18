@@ -79,6 +79,6 @@ type NodeStorageResourceList struct {
 	Items           []NodeStorageResource `json:"items"`
 }
 
-func init() {
-	SchemeBuilder.Register(&NodeStorageResource{}, &NodeStorageResourceList{})
-}
+//func init() {
+//	SchemeBuilder.Register(&NodeStorageResource{}, &NodeStorageResourceList{})
+//}

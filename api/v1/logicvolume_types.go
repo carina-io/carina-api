@@ -88,6 +88,6 @@ type LogicVolumeList struct {
 	Items           []LogicVolume `json:"items"`
 }
 
-func init() {
-	SchemeBuilder.Register(&LogicVolume{}, &LogicVolumeList{})
-}
+//func init() {
+//	SchemeBuilder.Register(&LogicVolume{}, &LogicVolumeList{})
+//}
